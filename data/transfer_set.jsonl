@@ -1,0 +1,18 @@
+{"smiles": "CC(=O)OC1=CC=CC=C1C(=O)O", "formal_charge": 0, "heavy_atoms": 13, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/aspirin.xyz", "id": "aspirin" }
+{"smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O", "formal_charge": 0, "heavy_atoms": 15, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/ibuprofen.xyz", "id": "ibuprofen" }
+{"smiles": "COC1=CC=CC2=C1C=C(C=C2)C(C)C(=O)O", "formal_charge": 0, "heavy_atoms": 17, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/naproxen.xyz", "id": "naproxen" }
+{"smiles": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C", "formal_charge": 0, "heavy_atoms": 14, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/caffeine.xyz", "id": "caffeine" }
+{"smiles": "CCN(CC)CC(=O)NC1=C(C)C=CC=C1C", "formal_charge": 0, "heavy_atoms": 17, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/lidocaine_neutral.xyz", "id": "lidocaine_neutral" }
+{"smiles": "CCOC1=CC=C(NC(=O)C)C=C1", "formal_charge": 0, "heavy_atoms": 13, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/phenacetin.xyz", "id": "phenacetin" }
+{"smiles": "CC(C)NCC(O)COc1cccc2ccccc12", "formal_charge": 0, "heavy_atoms": 19, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/propranolol.xyz", "id": "propranolol" }
+{"smiles": "CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O", "formal_charge": 0, "heavy_atoms": 19, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/ketoprofen.xyz", "id": "ketoprofen" }
+{"smiles": "CC1=C(C(CCC1)(C)C)C=CC=C(C)C=CC=C(C)C=CCO", "formal_charge": 0, "heavy_atoms": 23, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/retinol.xyz", "id": "retinol" }
+{"smiles": "C1=CC=C2C=C3C=CC=CC3=CC2=C1", "formal_charge": 0, "heavy_atoms": 14, "elements": ["C", "H"], "xyz": "transfer_xyz/anthracene.xyz", "id": "anthracene" }
+{"smiles": "CC(=O)[O-]", "formal_charge": -1, "heavy_atoms": 4, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/acetate.xyz", "id": "acetate" }
+{"smiles": "C1=CC=C(C(=C1)C(=O)[O-])O", "formal_charge": -1, "heavy_atoms": 10, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/salicylate.xyz", "id": "salicylate" }
+{"smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)[O-]", "formal_charge": -1, "heavy_atoms": 15, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/ibuprofenate.xyz", "id": "ibuprofenate" }
+{"smiles": "CC[NH+](CC)CC(=O)NC1=C(C)C=CC=C1C", "formal_charge": 1, "heavy_atoms": 17, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/lidocaine_protonated.xyz", "id": "lidocaine_protonated" }
+{"smiles": "C1=CC(=C(C=C1CC[NH3+])O)O", "formal_charge": 1, "heavy_atoms": 11, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/dopamine_protonated.xyz", "id": "dopamine_protonated" }
+{"smiles": "C(CC(=O)[O-])C[NH3+]", "formal_charge": 0, "heavy_atoms": 7, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/gaba_zwitterion.xyz", "id": "gaba_zwitterion" }
+{"smiles": "C1=CNC(=O)NC1=O.O", "formal_charge": 0, "heavy_atoms": 9, "elements": ["C", "H", "N", "O"], "xyz": "transfer_xyz/uracil_water.xyz", "id": "uracil_water" }
+{"smiles": "C1=CC=CC=C1.O", "formal_charge": 0, "heavy_atoms": 7, "elements": ["C", "H", "O"], "xyz": "transfer_xyz/benzene_water.xyz", "id": "benzene_water" }
